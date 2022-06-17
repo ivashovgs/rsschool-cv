@@ -10,8 +10,8 @@ I want to learn coding. It can make me free. Also this skill let me keep up with
 **Skills:** HTML (beginner)
 
 **Education:**
-*Building construction & property management (bachelor degree) in the Ural Fegeral University (Ekaterinburg, Russia)
-*Pedagogical formation (masters degree) in Russian State Professional and Pedagogical University (Ekaterinburg, Russia)
-*Chinese language (language classes) in Guangdong University of Foreign Studies (Guangzhou, China)
+* Building construction & property management (bachelor degree) in the Ural Fegeral University (Ekaterinburg, Russia)
+* Pedagogical formation (masters degree) in Russian State Professional and Pedagogical University (Ekaterinburg, Russia)
+* Chinese language (language classes) in Guangdong University of Foreign Studies (Guangzhou, China)
 
-*Languages:* english, russian, chinese, polish
+**Languages:** english, russian, chinese, polish
