@@ -1,11 +1,11 @@
-# CV
+**CV**
 
 ## Grigory Ivashov
 
-**e-mail:** ivashovgs@gmail.com
+**e-mail:** ivashovgs@gmail.com  
 **tel.:** +7 902 583 78 66 _(WhatsApp, Telegram)_
 
-I want to learn coding. It can make me free. Also this skill let me keep up with the times. In childhood I used to do coding. It was my big hobby. Never too late to turn it into a profession.
+>I want to learn coding. It can make me free. Also this skill let me keep up with the times. In childhood I used to do coding. It was my big hobby. Never too late to turn it into a profession.
 
 **Skills:** HTML (beginner)
 
