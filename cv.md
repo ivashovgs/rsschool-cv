@@ -1,6 +1,6 @@
-#CV
+# CV
 
-##Grigory Ivashov
+## Grigory Ivashov
 
 **e-mail:** ivashovgs@gmail.com
 **tel.:** +7 902 583 78 66 _(WhatsApp, Telegram)_
