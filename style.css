@@ -1,0 +1,16 @@
+body {
+    width: 50%;
+    margin: auto;
+    padding: 20px;
+    font: 14pt/1.5 Arial, Helvetica, sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color:black;
+}
+
+a:hover {
+    color: grey;
+}
+
