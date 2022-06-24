@@ -48,7 +48,7 @@ a:hover {
 .name__contact {
     padding: 5px 0 20px 100px;
     text-align: left;
-    font: 13pt/0.8 Arial, Helvetica, sans-serif;
+    font: 17px/0.8 Arial, Helvetica, sans-serif;
 }
 
 .header__menu {
@@ -79,7 +79,6 @@ a:hover {
 }
 
 .summary {
-    display: block;
     width: 600px;
     margin: auto;
     padding: 20px 10px;
@@ -92,7 +91,6 @@ a:hover {
 .content {
     display: flex;
     flex-direction: column;
-    margin-bottom: 100px;
 }
 
 .content__item {
@@ -104,10 +102,6 @@ a:hover {
     align-items: center;
     /* Центрируем по горизонтали */
     justify-content: center;
-    position: fixed;
-    left: 0; right: 0; /* Вся ширина */
-    bottom: 0;
-    background-color: #ffffff;
 }
 .footer__item {
     text-align: center;
