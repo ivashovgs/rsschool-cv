@@ -2,23 +2,25 @@
 <html lang="en">
 <head>
   <meta charset="utf-8" />
-  <title></title>
+  <title>CV Grigory Ivashov</title>
   <link rel="stylesheet" href="style.css" />
 </head>
 
-<body>
-  <header>
-    <div class="header_photo">
-      <img src="photo.jpg" alt="Photo" width="150">
+<body class="body">
+  <header class="header">
+    <div class="header__photo">
+      <img src="photo.jpg" alt="Photo" width="115">
     </div>
     <div class="header__name">
       <h1>Grigory Ivashov</h1>
       <div class="name__contact">
         <p>e-mail: <a href="mailto:ivashovgs@gmail.com">ivashovgs@gmail.com</a></p>
-        <p>tel: <a href="tel:+79025837866">+7 902 583 78 66</a> (<a href="https://wa.me/79025837866">WhatsApp</a>, <a href="https://t.me/tieguanyin_russia">Telegram</a>)</p>
+        <p>tel: <a href="tel:+79025837866">+7 902 583 78 66</a> 
+          (<a href="https://wa.me/79025837866">WhatsApp</a>,
+           <a href="https://t.me/tieguanyin_russia">Telegram</a>)</p>
       </div>
     </div>
-    <div class="header__menu">
+    <nav class="header__menu">      
       <a href="#skills">
         <div class="menu__link">Skills</div>
       </a>      
@@ -27,14 +29,14 @@
       </a>
       <a href="#languages">
         <div class="menu__link">Languages</div>
-      </a>
-    </div>
+      </a>      
+    </nav>
   </header>
 
   <main>
-    <blockquote class="summary">
+    <div class="summary">
       I want to learn coding. It can make me free. Also this skill let me keep up with the times. In childhood I used to do coding. It was my big hobby. Never too late to turn it into a profession.
-    </blockquote>
+    </div>
     <div class="content">
       <article id="skills" class="content__item">
         <h2>Skills:</h2>
@@ -59,18 +61,17 @@
     </div>
   </main>
 
-  <footer>
-    <div class="RSS">
-      <div class="RSS__logo">
+  <footer class="footer">
+      <div class="footer__item">
         <a href="https://rs.school/js/">
-          <img src="https://rs.school/images/rs_school_js.svg" alt="RS School" width="150px">
+          <img class="logo" src="https://rs.school/images/rs_school_js.svg" alt="RS School">
         </a>
       </div>
-      <div class="github">
-        <a href="https://ivashovgs.github.io/">IvashovGS</a> 2022 
-        </div>
-   </div>
-  </footer>   
+      <div class="footer__item">
+        <a href="https://ivashovgs.github.io/">ivashovgs</a>
+        <p>2022</p> 
+      </div>
+   </footer>   
 </body>
 </html>
 
