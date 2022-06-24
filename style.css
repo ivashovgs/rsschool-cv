@@ -1,12 +1,14 @@
 
+* {
+    box-sizing: border-box;
+}
 body {
     width: 900px;
     margin: auto;
-    font: 14pt/1.5 Arial, Helvetica, sans-serif;
+    font: 19px/1.5 Arial, Helvetica, sans-serif;
 }
 
 header {
-    box-sizing: border-box;
     padding: 4px;
     display: flex;
     flex-direction: row;
@@ -30,14 +32,13 @@ a:hover {
     align-items: center;
     /* Центрируем по горизонтали */
     justify-content: center;
-    box-sizing: border-box;
     padding-top: 20px;
+    padding-left: 40px;
     width: 150px;
     
 }
 
 .header__name {
-    box-sizing: border-box;
     padding: 4px;
     width: 550px;
     text-align: center;
@@ -45,7 +46,6 @@ a:hover {
 }
 
 .name__contact {
-    box-sizing: border-box;
     padding: 5px 0 20px 100px;
     text-align: left;
     font: 13pt/0.8 Arial, Helvetica, sans-serif;
@@ -58,10 +58,10 @@ a:hover {
   /* Центрируем по горизонтали */
   justify-content: center;
   flex-direction: column;
-    box-sizing: border-box;
     height: 200px;
     width: 150px;
-    font-size: 16pt;
+    font-size: 22px;
+    list-style-type: none;
 }
 
 .menu__link {
@@ -73,9 +73,9 @@ a:hover {
 }
 
 .menu__link:hover {
-    box-sizing: border-box;
     background-color: rgb(197, 197, 197);
     color: black;
+    transition: 0.3s;
 }
 
 .summary {
@@ -109,11 +109,13 @@ a:hover {
     bottom: 0;
     background-color: #ffffff;
 }
+.RSS__item {
+    text-align: center;
+    padding: 30px;
+    font: 18px/0.5 Arial, Helvetica, sans-serif;
+}
+.logo {
+    width: 150px;
+}
 
 
-.RSS__logo {
-    padding: 30px;
-}
-.github {
-    padding: 30px;
-}
